@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# **Noah Z.**
+## Student at UWT - Finance Major
+### _Just getting started and learning the ropes. Currently learning Python, C++, SQL, and GIT_
 <!--
 **bmhskgznhm-commits/bmhskgznhm-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
