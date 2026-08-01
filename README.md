@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Black Scholes Option Pricing Model**  
-🌱 &nbsp;I'm currently learning **Python and C++ and R**  
+🔭 &nbsp;I'm currently working on a **Black Scholes Option Pricing Model**  
+🌱 &nbsp;I'm currently learning **Python, C++ and R**  
 ⚡ &nbsp;Fun fact: **I have been skydiving**
 
 ### 🛠️ Tech Stack
